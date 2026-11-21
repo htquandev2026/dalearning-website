@@ -1,0 +1,62 @@
+:root {
+  --bg: #FFF8EE; --ink: #2B2140; --muted: #6B5E55; --card: #FFFFFF;
+  --accent: #E8553F; --accent-ink: #FFFFFF; --line: #F0E0C8; --soft: #FFEBDD;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #1E1A17; --ink: #F5EDE4; --muted: #BFB2A6; --card: #2A2420;
+    --accent: #FF7A62; --accent-ink: #1E1A17; --line: #3A322C; --soft: #3A2A24;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #1E1A17; --ink: #F5EDE4; --muted: #BFB2A6; --card: #2A2420;
+  --accent: #FF7A62; --accent-ink: #1E1A17; --line: #3A322C; --soft: #3A2A24;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink);
+  font-family: Nunito, system-ui, sans-serif; font-weight: 700; line-height: 1.5; }
+:lang(ko) body, :lang(ko) h1 { word-break: keep-all; }
+main { max-width: 960px; margin: 0 auto; padding: 0 16px 48px; }
+header { display: flex; align-items: center; gap: 12px; padding: 20px 0; flex-wrap: wrap; }
+header .logo { width: 48px; height: 48px; border-radius: 12px; }
+header .name { font-size: 22px; font-weight: 900; margin-right: auto; }
+nav.langs { display: flex; gap: 4px; flex-wrap: wrap; }
+nav.langs a { padding: 6px 10px; border-radius: 999px; color: var(--muted);
+  text-decoration: none; font-size: 14px; }
+nav.langs a[aria-current] { background: var(--card); color: var(--ink); border: 2px solid var(--line); }
+.hero { display: grid; gap: 32px; grid-template-columns: 1fr; align-items: center; padding: 16px 0 32px; }
+@media (min-width: 760px) { .hero { grid-template-columns: 1.2fr 1fr; } }
+.hero h1 { font-size: clamp(32px, 6vw, 52px); line-height: 1.1; margin: 0 0 12px; font-weight: 900; }
+.hero p { font-size: 19px; color: var(--muted); margin: 0 0 20px; }
+.badges { display: flex; flex-wrap: wrap; gap: 10px; }
+.badge { display: inline-block; padding: 12px 20px; border-radius: 999px; text-decoration: none;
+  background: var(--accent); color: var(--accent-ink); font-weight: 900; }
+.badge.soon { background: var(--card); color: var(--muted); border: 2px solid var(--line); }
+.phone { justify-self: center; width: min(300px, 100%); background: var(--ink); border-radius: 40px;
+  padding: 14px; box-shadow: 0 14px 40px rgba(0,0,0,.18); }
+.screen { background: var(--bg); border-radius: 28px; padding: 18px 16px 22px; }
+.today { background: #2B2140; color: #FFF8EE; border-radius: 20px; padding: 16px; margin-bottom: 14px; }
+.today small { letter-spacing: 1px; opacity: .75; font-size: 11px; }
+.today b { display: block; font-size: 20px; font-weight: 900; margin-top: 4px; }
+.bar { height: 6px; border-radius: 9px; background: #4A3F5C; margin-top: 12px; overflow: hidden; }
+.bar i { display: block; width: 40%; height: 100%; background: #F97316; }
+.line { display: flex; align-items: center; gap: 10px; background: var(--card); border: 2px solid var(--line);
+  border-radius: 16px; padding: 10px 12px; margin-top: 8px; }
+.line div { flex: 1; min-width: 0; }
+.line b { display: block; font-size: 16px; }
+.line span { color: var(--muted); font-size: 13px; }
+.play { width: 34px; height: 34px; border-radius: 50%; background: var(--accent); color: var(--accent-ink);
+  display: grid; place-items: center; font-size: 13px; flex: none; }
+.grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); }
+.card { background: var(--card); border-radius: 20px; padding: 20px; border: 2px solid var(--line); }
+.card .ic { font-size: 30px; line-height: 1; margin-bottom: 8px; }
+.card h3 { margin: 0 0 6px; font-size: 19px; font-weight: 900; }
+.card p { margin: 0; color: var(--muted); }
+.mode { background: var(--soft); border-color: transparent; }
+h2 { font-size: 28px; font-weight: 900; margin: 40px 0 16px; }
+.doc { max-width: 720px; }
+.doc h1 { font-size: 34px; font-weight: 900; margin: 8px 0 4px; }
+.doc h2 { font-size: 21px; margin: 28px 0 8px; }
+.doc p, .doc li { color: var(--muted); }
+.doc a, footer a { color: var(--ink); }
+footer { border-top: 2px solid var(--line); margin-top: 48px; padding-top: 20px; color: var(--muted); font-size: 15px; }
