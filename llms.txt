@@ -1,0 +1,32 @@
+# Dạ: Learn Vietnamese
+
+> A mobile app (iOS and Android) for learning the Vietnamese families speak, with three modes: Kids (heritage children talking to grandparents), Partner & family (partners and in-laws of Vietnamese families) and Everyday (travel, work, friends). Audio in Northern and Southern accents, offline, no ads, no tracking, one-time purchase.
+
+Website: https://vietnamese-learning.com/
+Contact: htquandev2026@gmail.com
+
+## Guides
+
+- [Learn Vietnamese for Kids: Talk to Grandma and Grandpa](https://vietnamese-learning.com/guides/learn-vietnamese-for-kids/): How to help a child growing up abroad speak Vietnamese with grandparents: first phrases, daily habits and video-call words.
+- [Vietnamese Family Terms: What to Call Every Relative](https://vietnamese-learning.com/guides/vietnamese-family-terms/): Bác, chú, cô, cậu, dì, nội and ngoại explained. A simple guide to Vietnamese kinship words, with audio in the Dạ app.
+- [Meeting Your Vietnamese Partner’s Parents: Phrases](https://vietnamese-learning.com/guides/meeting-vietnamese-parents/): What to say when you meet your Vietnamese partner’s family: greetings, polite answers, gifts and how to address each person.
+- [Vietnamese Tones Explained: The Six Tones, Simply](https://vietnamese-learning.com/guides/vietnamese-tones/): The six Vietnamese tones, how the marks work, and why the South uses five. Practise with minimal pairs like ma, má, mà, mả, mã, mạ.
+- [Northern vs Southern Vietnamese: Which to Learn?](https://vietnamese-learning.com/guides/northern-vs-southern-vietnamese/): The main differences between the Hà Nội and Saigon accents, the words that change, and how to choose the one your family speaks.
+- [Vietnamese New Year Greetings: What to Say at Tết](https://vietnamese-learning.com/guides/tet-greetings/): Chúc mừng năm mới and the Tết wishes families love to hear, for parents, grandparents and relatives, plus lucky money etiquette.
+- [Vietnamese Dinner Phrases and Family Table Manners](https://vietnamese-learning.com/guides/vietnamese-dinner-phrases/): How to invite elders to eat, say “delicious”, ask for more rice and offer to wash up at a Vietnamese family meal.
+- [Vietnamese Wedding Toast: A Short Speech You Can Give](https://vietnamese-learning.com/guides/vietnamese-wedding-toast/): A short, polite Vietnamese wedding speech line by line, from greeting both families to raising a glass with “Một, hai, ba, dô!”.
+- [How to Say I Love You in Vietnamese (Yêu and Thương)](https://vietnamese-learning.com/guides/i-love-you-in-vietnamese/): Anh yêu em, em yêu anh, con thương mẹ: how to say I love you in Vietnamese to a partner, parents and grandparents.
+- [Vietnamese Phrases for Travel: Food, Rides and Prices](https://vietnamese-learning.com/guides/vietnamese-phrases-for-travel/): Order phở and bánh mì, take a ride-app motorbike and ask prices in Vietnamese. Real phrases with Northern and Southern audio in Dạ.
+- [Learn Vietnamese for Family: A Starter Guide](https://vietnamese-learning.com/guides/learn-vietnamese-for-family/): Learning Vietnamese to talk to grandparents, a partner’s parents or your own family? What to learn first, and a simple four-week plan.
+- [How to Say Hello to Grandma in Vietnamese](https://vietnamese-learning.com/guides/say-hello-to-grandma-in-vietnamese/): “Con chào bà ạ” word by word: the polite way to greet a Vietnamese grandmother, bà nội vs bà ngoại, and what to say on a video call.
+- [Vietnamese Phrases for In-Laws: What to Say](https://vietnamese-learning.com/guides/vietnamese-phrases-for-in-laws/): What to call your Vietnamese in-laws and the everyday phrases to use with them: thanks, visits, favours and calls, with Northern and Southern forms.
+- [Heritage Vietnamese: Understand It but Can’t Speak?](https://vietnamese-learning.com/guides/heritage-vietnamese-learner/): Grew up hearing Vietnamese but answer in English? Why it happens, what heritage learners already have, and how to start speaking again.
+- [Vietnamese Pronouns: Why Not Say “Tôi” to Grandma](https://vietnamese-learning.com/guides/vietnamese-pronouns/): Vietnamese uses family words for “I” and “you”. Why “tôi” sounds cold to family, and a simple chart of what to call yourself with each person.
+- [Vietnamese Pronunciation Practice: Record and Compare](https://vietnamese-learning.com/guides/vietnamese-pronunciation-practice/): A daily routine for Vietnamese pronunciation: listen, shadow, record, compare your pitch curve with a model, and drill the pairs that matter.
+- [Learn Vietnamese App for Beginners: What to Look For](https://vietnamese-learning.com/guides/learn-vietnamese-app-for-beginners/): What a beginner needs from a Vietnamese learning app: real audio in the right accent, tone feedback, useful phrases, and a first-month plan.
+
+## Pages
+
+- [About](https://vietnamese-learning.com/about.html)
+- [Privacy policy](https://vietnamese-learning.com/privacy.html)
+- [Support](https://vietnamese-learning.com/support.html)

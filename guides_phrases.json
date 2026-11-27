@@ -1,0 +1,1447 @@
+{
+ "kids/greetings": [
+  {
+   "vi": "Dạ!",
+   "en": "Yes! (polite answer to grown-ups)"
+  },
+  {
+   "vi": "Con chào bà ạ.",
+   "en": "Hello grandma."
+  },
+  {
+   "vi": "Con cảm ơn ạ.",
+   "en": "Thank you."
+  },
+  {
+   "vi": "Con yêu bà.",
+   "en": "I love you, grandma."
+  },
+  {
+   "vi": "Tạm biệt ạ.",
+   "en": "Goodbye."
+  },
+  {
+   "vi": "Con xin lỗi ạ.",
+   "en": "I’m sorry."
+  },
+  {
+   "vi": "Con mời ông bà ăn cơm ạ.",
+   "en": "Grandpa, grandma, please eat."
+  },
+  {
+   "vi": "Con đi học đây ạ.",
+   "en": "I’m going to school now."
+  },
+  {
+   "vi": "Con về rồi ạ.",
+   "en": "I’m home!"
+  },
+  {
+   "vi": "Chúc bà ngủ ngon.",
+   "en": "Good night, grandma."
+  },
+  {
+   "vi": "Con dậy rồi ạ.",
+   "en": "I’m awake."
+  },
+  {
+   "vi": "Con khoẻ ạ.",
+   "en": "I’m fine."
+  },
+  {
+   "vi": "Vâng ạ.",
+   "en": "Okay. (polite)",
+   "south": "Dạ ạ."
+  },
+  {
+   "vi": "Con mời bà uống nước ạ.",
+   "en": "Grandma, please have some water."
+  },
+  {
+   "vi": "Bà ơi!",
+   "en": "Grandma! (calling)"
+  }
+ ],
+ "kids/phone_call": [
+  {
+   "vi": "A lô!",
+   "en": "Hello? (on the phone)"
+  },
+  {
+   "vi": "Con là Bin đây ạ.",
+   "en": "It’s Bin here."
+  },
+  {
+   "vi": "Bà có nghe con nói không?",
+   "en": "Grandma, can you hear me?"
+  },
+  {
+   "vi": "Con nghe rõ rồi ạ.",
+   "en": "I can hear you clearly."
+  },
+  {
+   "vi": "Bà đang làm gì đấy ạ?",
+   "en": "What are you doing, grandma?",
+   "south": "Bà đang làm gì vậy ạ?"
+  },
+  {
+   "vi": "Con cho bà xem cái này.",
+   "en": "Let me show you this, grandma."
+  },
+  {
+   "vi": "Mạng yếu quá.",
+   "en": "The connection is bad."
+  },
+  {
+   "vi": "Bà nói to lên ạ.",
+   "en": "Speak up, grandma."
+  },
+  {
+   "vi": "Con nhớ bà lắm.",
+   "en": "I miss you so much, grandma."
+  },
+  {
+   "vi": "Mẹ muốn nói chuyện với bà.",
+   "en": "Mummy wants to talk to you.",
+   "south": "Má muốn nói chuyện với bà."
+  },
+  {
+   "vi": "Con chào bà, con tắt máy nhé.",
+   "en": "Bye grandma, I’m hanging up now."
+  },
+  {
+   "vi": "Mai con gọi lại ạ.",
+   "en": "I’ll call again tomorrow."
+  }
+ ],
+ "kids/love_words": [
+  {
+   "vi": "Con yêu mẹ!",
+   "en": "I love you, Mom!",
+   "south": "Con thương má!"
+  },
+  {
+   "vi": "Con yêu bố!",
+   "en": "I love you, Dad!",
+   "south": "Con thương ba!"
+  },
+  {
+   "vi": "Con thương ông bà lắm.",
+   "en": "I love you so much, grandma and grandpa."
+  },
+  {
+   "vi": "Con nhớ bà.",
+   "en": "I miss you, grandma."
+  },
+  {
+   "vi": "Ôm con đi!",
+   "en": "Give me a hug!"
+  },
+  {
+   "vi": "Bà thơm con nhé.",
+   "en": "Grandma, give me a kiss."
+  },
+  {
+   "vi": "Mẹ là nhất!",
+   "en": "Mom is the best!",
+   "south": "Má là nhất!"
+  },
+  {
+   "vi": "Con tặng bà bông hoa.",
+   "en": "This flower is for you, grandma."
+  },
+  {
+   "vi": "Con thương em bé.",
+   "en": "I love the baby."
+  },
+  {
+   "vi": "Con yêu cả nhà!",
+   "en": "I love the whole family!"
+  },
+  {
+   "vi": "Bà đừng buồn nhé.",
+   "en": "Don’t be sad, grandma."
+  },
+  {
+   "vi": "Con luôn ở bên bà.",
+   "en": "I’m always here for you, grandma."
+  }
+ ],
+ "kids/family": [
+  {
+   "vi": "ông",
+   "en": "grandpa"
+  },
+  {
+   "vi": "bà",
+   "en": "grandma"
+  },
+  {
+   "vi": "bố",
+   "en": "dad",
+   "south": "ba"
+  },
+  {
+   "vi": "mẹ",
+   "en": "mom",
+   "south": "má"
+  },
+  {
+   "vi": "em bé",
+   "en": "baby"
+  },
+  {
+   "vi": "anh",
+   "en": "big brother"
+  },
+  {
+   "vi": "chị",
+   "en": "big sister"
+  },
+  {
+   "vi": "em",
+   "en": "little brother or sister"
+  },
+  {
+   "vi": "cô",
+   "en": "aunt (dad’s sister)"
+  },
+  {
+   "vi": "chú",
+   "en": "uncle (dad’s younger brother)"
+  },
+  {
+   "vi": "gia đình",
+   "en": "family"
+  },
+  {
+   "vi": "nhà",
+   "en": "home"
+  },
+  {
+   "vi": "ôm",
+   "en": "hug"
+  },
+  {
+   "vi": "thơm",
+   "en": "kiss"
+  },
+  {
+   "vi": "bạn",
+   "en": "friend"
+  }
+ ],
+ "adult/relatives": [
+  {
+   "vi": "Bác là anh của bố ạ?",
+   "en": "Are you Dad’s older brother?",
+   "south": "Bác là anh của ba ạ?"
+  },
+  {
+   "vi": "Cô là em gái của bố.",
+   "en": "Cô is Dad’s younger sister.",
+   "south": "Cô là em gái của ba."
+  },
+  {
+   "vi": "Dì là em gái của mẹ.",
+   "en": "Dì is Mom’s younger sister.",
+   "south": "Dì là em gái của má."
+  },
+  {
+   "vi": "Cậu là em trai của mẹ.",
+   "en": "Cậu is Mom’s younger brother.",
+   "south": "Cậu là em trai của má."
+  },
+  {
+   "vi": "Chú là em trai của bố.",
+   "en": "Chú is Dad’s younger brother.",
+   "south": "Chú là em trai của ba."
+  },
+  {
+   "vi": "anh họ",
+   "en": "older male cousin"
+  },
+  {
+   "vi": "chị họ",
+   "en": "older female cousin"
+  },
+  {
+   "vi": "em họ",
+   "en": "younger cousin"
+  },
+  {
+   "vi": "ông bà nội",
+   "en": "father’s parents"
+  },
+  {
+   "vi": "ông bà ngoại",
+   "en": "mother’s parents"
+  },
+  {
+   "vi": "Cả nhà mình có bao nhiêu người ạ?",
+   "en": "How many people are in the family?"
+  },
+  {
+   "vi": "Con gọi bác ấy là gì ạ?",
+   "en": "What should I call him / her?"
+  }
+ ],
+ "adult/greetings": [
+  {
+   "vi": "Dạ.",
+   "en": "Yes. (polite reply to an elder)"
+  },
+  {
+   "vi": "Con chào bố mẹ ạ.",
+   "en": "Hello Mom and Dad. (to your partner’s parents)",
+   "south": "Con chào ba má ạ."
+  },
+  {
+   "vi": "Con cảm ơn ạ.",
+   "en": "Thank you. (to an elder)"
+  },
+  {
+   "vi": "Anh có khoẻ không?",
+   "en": "Are you well? (to your older partner)"
+  },
+  {
+   "vi": "Rất vui được gặp bác ạ.",
+   "en": "Very nice to meet you. (to an older relative)"
+  },
+  {
+   "vi": "Con xin phép về ạ.",
+   "en": "May I take my leave? (goodbye to elders)"
+  },
+  {
+   "vi": "Em chào anh.",
+   "en": "Hi. (to an older man, e.g. your partner’s brother)"
+  },
+  {
+   "vi": "Em chào chị.",
+   "en": "Hi. (to an older woman, e.g. your partner’s sister)"
+  },
+  {
+   "vi": "Cháu chào bác ạ.",
+   "en": "Hello. (to an aunt or uncle older than your partner’s parents)"
+  },
+  {
+   "vi": "Cháu chào cô ạ.",
+   "en": "Hello. (to your partner’s aunt)"
+  },
+  {
+   "vi": "Cháu chào chú ạ.",
+   "en": "Hello. (to your partner’s younger uncle)"
+  },
+  {
+   "vi": "Con xin lỗi ạ.",
+   "en": "I’m sorry. (to an elder)"
+  },
+  {
+   "vi": "Dạ, con hiểu rồi ạ.",
+   "en": "Yes, I understand."
+  },
+  {
+   "vi": "Không có gì đâu ạ.",
+   "en": "You’re welcome. / It’s nothing."
+  },
+  {
+   "vi": "Hẹn gặp lại ạ.",
+   "en": "See you again."
+  }
+ ],
+ "adult/meet_family": [
+  {
+   "vi": "Con rất vui được gặp cả nhà.",
+   "en": "I’m very happy to meet the whole family."
+  },
+  {
+   "vi": "Con nói tiếng Việt chưa giỏi ạ.",
+   "en": "My Vietnamese isn’t good yet."
+  },
+  {
+   "vi": "Nhà mình đông vui quá!",
+   "en": "The family is so lively!"
+  },
+  {
+   "vi": "Con xin phép ngồi ạ.",
+   "en": "May I sit down?"
+  },
+  {
+   "vi": "Con có chút quà biếu bố mẹ ạ.",
+   "en": "I brought a small gift for you, Mom and Dad.",
+   "south": "Con có chút quà biếu ba má ạ."
+  },
+  {
+   "vi": "Con đến từ Mỹ ạ.",
+   "en": "I’m from the US. (swap in your country)"
+  },
+  {
+   "vi": "Nhà mình đẹp quá ạ.",
+   "en": "Your home is beautiful."
+  },
+  {
+   "vi": "Con mới học tiếng Việt ạ.",
+   "en": "I’ve just started learning Vietnamese."
+  },
+  {
+   "vi": "Bác nói chậm giúp con được không ạ?",
+   "en": "Could you speak slowly for me?"
+  },
+  {
+   "vi": "Con làm giáo viên ạ.",
+   "en": "I’m a teacher. (swap in your job)"
+  },
+  {
+   "vi": "Con sống ở đây được hai năm rồi ạ.",
+   "en": "I’ve lived here for two years."
+  },
+  {
+   "vi": "Bố mẹ có khoẻ không ạ?",
+   "en": "How are you, Mom and Dad?",
+   "south": "Ba má có khoẻ không ạ?"
+  },
+  {
+   "vi": "Con xin phép đi rửa tay ạ.",
+   "en": "Excuse me, may I go wash my hands?"
+  },
+  {
+   "vi": "Con cảm ơn bố mẹ đã đón tiếp con ạ.",
+   "en": "Thank you for welcoming me, Mom and Dad.",
+   "south": "Con cảm ơn ba má đã đón tiếp con ạ."
+  },
+  {
+   "vi": "Lần sau con lại đến thăm ạ.",
+   "en": "I’ll come to visit again."
+  }
+ ],
+ "adult/tones": [
+  {
+   "vi": "ma",
+   "en": "ghost"
+  },
+  {
+   "vi": "má",
+   "en": "cheek; mom (in the South)"
+  },
+  {
+   "vi": "mà",
+   "en": "but"
+  },
+  {
+   "vi": "mả",
+   "en": "grave, tomb"
+  },
+  {
+   "vi": "mã",
+   "en": "horse (Sino-Vietnamese); code"
+  },
+  {
+   "vi": "mạ",
+   "en": "rice seedling"
+  },
+  {
+   "vi": "bán",
+   "en": "to sell"
+  },
+  {
+   "vi": "bạn",
+   "en": "friend"
+  },
+  {
+   "vi": "cá",
+   "en": "fish"
+  },
+  {
+   "vi": "cà",
+   "en": "eggplant"
+  },
+  {
+   "vi": "ba",
+   "en": "three; dad (in the South)"
+  },
+  {
+   "vi": "bà",
+   "en": "grandmother"
+  },
+  {
+   "vi": "mua",
+   "en": "to buy"
+  },
+  {
+   "vi": "múa",
+   "en": "to dance"
+  },
+  {
+   "vi": "bao",
+   "en": "bag"
+  },
+  {
+   "vi": "báo",
+   "en": "newspaper"
+  },
+  {
+   "vi": "thương",
+   "en": "to love, to care for"
+  },
+  {
+   "vi": "thường",
+   "en": "usually"
+  },
+  {
+   "vi": "sửa",
+   "en": "to repair"
+  },
+  {
+   "vi": "sữa",
+   "en": "milk"
+  },
+  {
+   "vi": "nghỉ",
+   "en": "to rest"
+  },
+  {
+   "vi": "nghĩ",
+   "en": "to think"
+  }
+ ],
+ "adult/dialects": [
+  {
+   "vi": "Ngoài Bắc gọi là “bố”, trong Nam gọi là “ba”.",
+   "en": "The North says “bố”, the South says “ba” for dad."
+  },
+  {
+   "vi": "Miền Bắc nói “không”, miền Nam hay nói “hông”.",
+   "en": "The North says “không”, the South often says “hông”."
+  },
+  {
+   "vi": "“Gì” ngoài Bắc, “chi” ở miền Trung.",
+   "en": "“What” is “gì” in the North, “chi” in the Centre."
+  },
+  {
+   "vi": "“Thế nào” ngoài Bắc, “sao” trong Nam.",
+   "en": "“How” is “thế nào” in the North, “sao” in the South."
+  },
+  {
+   "vi": "“Vâng” ngoài Bắc, “dạ” trong Nam.",
+   "en": "“Yes” is “vâng” in the North, “dạ” in the South."
+  },
+  {
+   "vi": "“Quả” ngoài Bắc, “trái” trong Nam.",
+   "en": "“Fruit” is “quả” in the North, “trái” in the South."
+  },
+  {
+   "vi": "“Ô” ngoài Bắc, “dù” trong Nam.",
+   "en": "“Umbrella” is “ô” in the North, “dù” in the South."
+  },
+  {
+   "vi": "“Lợn” ngoài Bắc, “heo” trong Nam.",
+   "en": "“Pig” is “lợn” in the North, “heo” in the South."
+  },
+  {
+   "vi": "Người Huế nói “mô, tê, răng, rứa”.",
+   "en": "People in Huế say “mô, tê, răng, rứa”."
+  },
+  {
+   "vi": "Con nghe giọng miền Trung khó quá.",
+   "en": "I find the Central accent really hard."
+  },
+  {
+   "vi": "Nhà mình nói giọng miền nào ạ?",
+   "en": "Which accent does the family speak?"
+  },
+  {
+   "vi": "Con sẽ học theo giọng nhà mình.",
+   "en": "I’ll learn the family’s accent."
+  }
+ ],
+ "adult/tet": [
+  {
+   "vi": "Chúc mừng năm mới!",
+   "en": "Happy New Year!"
+  },
+  {
+   "vi": "Con chúc bố mẹ năm mới mạnh khoẻ ạ.",
+   "en": "Mom, Dad, I wish you good health this new year.",
+   "south": "Con chúc ba má năm mới mạnh khoẻ ạ."
+  },
+  {
+   "vi": "Con chúc ông bà sống lâu trăm tuổi ạ.",
+   "en": "Grandpa, grandma, I wish you a long life."
+  },
+  {
+   "vi": "An khang thịnh vượng!",
+   "en": "Peace and prosperity!"
+  },
+  {
+   "vi": "Vạn sự như ý!",
+   "en": "May everything go as you wish!"
+  },
+  {
+   "vi": "Con cảm ơn bố mẹ đã lì xì ạ.",
+   "en": "Thank you for the lucky money, Mom and Dad.",
+   "south": "Con cảm ơn ba má đã lì xì ạ."
+  },
+  {
+   "vi": "Năm mới con chúc cả nhà vui vẻ ạ.",
+   "en": "Happy New Year to the whole family."
+  },
+  {
+   "vi": "Tết này con về nhà mình ăn Tết ạ.",
+   "en": "This Tết I’ll come home to celebrate with you."
+  },
+  {
+   "vi": "Con gói bánh chưng với mẹ.",
+   "en": "I’m wrapping bánh chưng with Mom.",
+   "south": "Con gói bánh tét với má."
+  },
+  {
+   "vi": "Hoa đào đẹp quá!",
+   "en": "The peach blossoms are beautiful!",
+   "south": "Hoa mai đẹp quá!"
+  },
+  {
+   "vi": "Mùng một Tết.",
+   "en": "The first day of Tết."
+  },
+  {
+   "vi": "Con đi chúc Tết họ hàng ạ.",
+   "en": "I’m visiting relatives to wish them a happy Tết."
+  },
+  {
+   "vi": "Con mừng tuổi các cháu.",
+   "en": "I’m giving lucky money to the children.",
+   "south": "Con lì xì cho các cháu."
+  },
+  {
+   "vi": "Năm nay là năm con gì ạ?",
+   "en": "Which zodiac animal is this year?"
+  },
+  {
+   "vi": "Tết vui quá ạ!",
+   "en": "Tết is so much fun!"
+  }
+ ],
+ "adult/family_meal": [
+  {
+   "vi": "Con mời bố mẹ ăn cơm.",
+   "en": "Mom, Dad, please start eating.",
+   "south": "Con mời ba má ăn cơm."
+  },
+  {
+   "vi": "Con mời cả nhà ăn cơm ạ.",
+   "en": "Everyone, please start eating."
+  },
+  {
+   "vi": "Ngon quá!",
+   "en": "So delicious!"
+  },
+  {
+   "vi": "Món này ngon lắm ạ.",
+   "en": "This dish is really good."
+  },
+  {
+   "vi": "Món này tên là gì ạ?",
+   "en": "What is this dish called?"
+  },
+  {
+   "vi": "Con ăn no rồi ạ.",
+   "en": "I’m full, thank you."
+  },
+  {
+   "vi": "Con xin thêm một bát cơm ạ.",
+   "en": "Could I have another bowl of rice?",
+   "south": "Con xin thêm một chén cơm ạ."
+  },
+  {
+   "vi": "Cho con xin nước mắm ạ.",
+   "en": "Could you pass the fish sauce?"
+  },
+  {
+   "vi": "Con không ăn cay được ạ.",
+   "en": "I can’t eat spicy food."
+  },
+  {
+   "vi": "Mẹ nấu ăn ngon quá!",
+   "en": "Mom, your cooking is wonderful!",
+   "south": "Má nấu ăn ngon quá!"
+  },
+  {
+   "vi": "Để con rửa bát cho ạ.",
+   "en": "Let me do the dishes.",
+   "south": "Để con rửa chén cho ạ."
+  },
+  {
+   "vi": "Con ăn thử được không ạ?",
+   "en": "May I try some?"
+  },
+  {
+   "vi": "Con cầm đũa chưa quen ạ.",
+   "en": "I’m not used to chopsticks yet."
+  },
+  {
+   "vi": "Con mời bố uống trà ạ.",
+   "en": "Dad, please have some tea.",
+   "south": "Con mời ba uống trà ạ."
+  },
+  {
+   "vi": "Con cảm ơn, bữa cơm ngon quá ạ.",
+   "en": "Thank you, the meal was delicious."
+  }
+ ],
+ "adult/toast_speech": [
+  {
+   "vi": "Con xin phép nói vài lời.",
+   "en": "Allow me to say a few words."
+  },
+  {
+   "vi": "Kính thưa hai bên gia đình.",
+   "en": "Respected members of both families."
+  },
+  {
+   "vi": "Con rất xúc động hôm nay.",
+   "en": "I’m very moved today."
+  },
+  {
+   "vi": "Con cảm ơn bố mẹ đã đón nhận con.",
+   "en": "Thank you for welcoming me.",
+   "south": "Con cảm ơn ba má đã đón nhận con."
+  },
+  {
+   "vi": "Tiếng Việt của con chưa giỏi, mong mọi người thông cảm.",
+   "en": "My Vietnamese isn’t great — please bear with me."
+  },
+  {
+   "vi": "Con xin chúc ông bà mạnh khoẻ.",
+   "en": "I wish grandpa and grandma good health."
+  },
+  {
+   "vi": "Chúc cả nhà hạnh phúc.",
+   "en": "Happiness to the whole family."
+  },
+  {
+   "vi": "Con xin mời mọi người nâng ly.",
+   "en": "Please raise your glasses."
+  },
+  {
+   "vi": "Vì sức khoẻ của bố mẹ!",
+   "en": "To your health, Mom and Dad!",
+   "south": "Vì sức khoẻ của ba má!"
+  },
+  {
+   "vi": "Một, hai, ba, dô!",
+   "en": "One, two, three, cheers!"
+  },
+  {
+   "vi": "Con nói chưa hay, xin lỗi mọi người.",
+   "en": "Sorry if that wasn’t well said."
+  },
+  {
+   "vi": "Con cảm ơn cả nhà đã lắng nghe.",
+   "en": "Thank you all for listening."
+  }
+ ],
+ "adult/loving_words": [
+  {
+   "vi": "Con thương bố mẹ nhiều lắm.",
+   "en": "I love you both so much.",
+   "south": "Con thương ba má nhiều lắm."
+  },
+  {
+   "vi": "Con biết ơn bố mẹ.",
+   "en": "I’m grateful to you.",
+   "south": "Con biết ơn ba má."
+  },
+  {
+   "vi": "Có bố mẹ, con thấy ấm áp.",
+   "en": "You make me feel so welcome.",
+   "south": "Có ba má, con thấy ấm áp."
+  },
+  {
+   "vi": "Con coi bố mẹ như bố mẹ ruột.",
+   "en": "You’re like my own parents.",
+   "south": "Con coi ba má như ba má ruột."
+  },
+  {
+   "vi": "Con nhớ cả nhà lắm.",
+   "en": "I miss you all so much."
+  },
+  {
+   "vi": "Con tự hào về gia đình mình.",
+   "en": "I’m proud of our family."
+  },
+  {
+   "vi": "Mẹ là người mẹ thứ hai của con.",
+   "en": "You’re my second mother.",
+   "south": "Má là người mẹ thứ hai của con."
+  },
+  {
+   "vi": "Bố dạy con nhiều điều.",
+   "en": "You’ve taught me so much, Dad.",
+   "south": "Ba dạy con nhiều điều."
+  },
+  {
+   "vi": "Cảm ơn bố mẹ đã tin con.",
+   "en": "Thank you for trusting me.",
+   "south": "Cảm ơn ba má đã tin con."
+  },
+  {
+   "vi": "Con sẽ luôn ở bên gia đình.",
+   "en": "I’ll always be there for the family."
+  },
+  {
+   "vi": "Ôm bố mẹ một cái.",
+   "en": "Let me give you a hug.",
+   "south": "Ôm ba má một cái."
+  },
+  {
+   "vi": "Gia đình là tất cả.",
+   "en": "Family is everything."
+  }
+ ],
+ "adult/partner": [
+  {
+   "vi": "Chúng con quen nhau ba năm rồi.",
+   "en": "We’ve been together for three years."
+  },
+  {
+   "vi": "Chúng con gặp nhau ở trường đại học.",
+   "en": "We met at university."
+  },
+  {
+   "vi": "Người ấy rất chu đáo.",
+   "en": "My partner is very thoughtful."
+  },
+  {
+   "vi": "Người ấy nấu ăn ngon hơn con.",
+   "en": "My partner cooks better than me."
+  },
+  {
+   "vi": "Người ấy hay kể về bố mẹ.",
+   "en": "My partner often talks about you.",
+   "south": "Người ấy hay kể về ba má."
+  },
+  {
+   "vi": "Chúng con sắp cưới ạ.",
+   "en": "We’re getting married soon."
+  },
+  {
+   "vi": "Chúng con muốn sống gần bố mẹ.",
+   "en": "We want to live near you.",
+   "south": "Chúng con muốn sống gần ba má."
+  },
+  {
+   "vi": "Người ấy đang dạy con tiếng Việt.",
+   "en": "My partner is teaching me Vietnamese."
+  },
+  {
+   "vi": "Chúng con cãi nhau một chút, giờ ổn rồi ạ.",
+   "en": "We argued a little, but it’s fine now."
+  },
+  {
+   "vi": "Con thương người ấy lắm.",
+   "en": "I love my partner very much."
+  },
+  {
+   "vi": "Bố mẹ yên tâm, con sẽ chăm sóc người ấy.",
+   "en": "Don’t worry, I’ll take good care of my partner.",
+   "south": "Ba má yên tâm, con sẽ chăm sóc người ấy."
+  },
+  {
+   "vi": "Người ấy đi làm chưa về ạ.",
+   "en": "My partner isn’t back from work yet."
+  }
+ ],
+ "everyday/pho_shop": [
+  {
+   "vi": "Cho tôi một bát phở tái.",
+   "en": "One pho with rare beef, please.",
+   "south": "Cho tôi một tô phở tái."
+  },
+  {
+   "vi": "Phở chín.",
+   "en": "Pho with well-done beef."
+  },
+  {
+   "vi": "Phở tái nạm.",
+   "en": "Rare beef and flank."
+  },
+  {
+   "vi": "Phở gầu.",
+   "en": "Pho with fatty brisket."
+  },
+  {
+   "vi": "Cho thêm một quả trứng chần.",
+   "en": "Add a poached egg, please.",
+   "south": "Cho thêm một trái trứng chần."
+  },
+  {
+   "vi": "Bát to hay bát nhỏ?",
+   "en": "Large or small bowl?",
+   "south": "Tô lớn hay tô nhỏ?"
+  },
+  {
+   "vi": "Cho thêm quẩy.",
+   "en": "Add some fried dough sticks."
+  },
+  {
+   "vi": "Ít bánh, nhiều thịt.",
+   "en": "Fewer noodles, more meat."
+  },
+  {
+   "vi": "Cho xin ít chanh ớt.",
+   "en": "Some lime and chilli, please."
+  },
+  {
+   "vi": "Nước dùng ngọt quá.",
+   "en": "The broth is so rich."
+  },
+  {
+   "vi": "Phở Bắc hay phở Nam?",
+   "en": "Northern or Southern-style pho?"
+  },
+  {
+   "vi": "Ăn sáng bằng phở là nhất.",
+   "en": "Pho is the best breakfast."
+  }
+ ],
+ "everyday/street_food": [
+  {
+   "vi": "Cho tôi một cái bánh mì.",
+   "en": "One bánh mì, please.",
+   "south": "Cho tôi một ổ bánh mì."
+  },
+  {
+   "vi": "Bánh mì thịt bao nhiêu tiền?",
+   "en": "How much is a pork bánh mì?"
+  },
+  {
+   "vi": "Cho thêm ớt nhé.",
+   "en": "Add some chilli, please."
+  },
+  {
+   "vi": "Không cho rau mùi nhé.",
+   "en": "No coriander, please.",
+   "south": "Không cho ngò nhé."
+  },
+  {
+   "vi": "Ở đâu có bún chả ngon?",
+   "en": "Where’s good bún chả?"
+  },
+  {
+   "vi": "Ăn ở đây hay mang về?",
+   "en": "Eat here or take away?",
+   "south": "Ăn ở đây hay mang đi?"
+  },
+  {
+   "vi": "Tôi muốn thử món này.",
+   "en": "I want to try this dish."
+  },
+  {
+   "vi": "Món này ăn thế nào?",
+   "en": "How do you eat this?",
+   "south": "Món này ăn sao?"
+  },
+  {
+   "vi": "Tôi ngồi đây được không?",
+   "en": "Can I sit here?"
+  },
+  {
+   "vi": "Cho tôi một đĩa cơm tấm.",
+   "en": "One plate of broken rice, please.",
+   "south": "Cho tôi một dĩa cơm tấm."
+  },
+  {
+   "vi": "Nước chấm này có cay không?",
+   "en": "Is this dipping sauce spicy?"
+  },
+  {
+   "vi": "Tất cả bao nhiêu tiền?",
+   "en": "How much is it altogether?"
+  }
+ ],
+ "everyday/ride_app": [
+  {
+   "vi": "Tôi đặt xe trên ứng dụng.",
+   "en": "I booked a ride on the app."
+  },
+  {
+   "vi": "Anh đến chưa?",
+   "en": "Are you here yet?"
+  },
+  {
+   "vi": "Tôi đứng trước cửa hàng tiện lợi.",
+   "en": "I’m in front of the convenience store."
+  },
+  {
+   "vi": "Tôi mặc áo xanh.",
+   "en": "I’m wearing a blue shirt."
+  },
+  {
+   "vi": "Anh chờ tôi hai phút.",
+   "en": "Wait two minutes for me, please."
+  },
+  {
+   "vi": "Biển số xe là gì?",
+   "en": "What’s the number plate?"
+  },
+  {
+   "vi": "Đi theo bản đồ nhé.",
+   "en": "Please follow the map."
+  },
+  {
+   "vi": "Cho tôi xuống ở đây.",
+   "en": "Drop me here, please."
+  },
+  {
+   "vi": "Tôi trả bằng thẻ trên ứng dụng.",
+   "en": "I’m paying by card in the app."
+  },
+  {
+   "vi": "Tôi trả tiền mặt.",
+   "en": "I’ll pay cash."
+  },
+  {
+   "vi": "Cho tôi mượn mũ bảo hiểm.",
+   "en": "Can I have the helmet?",
+   "south": "Cho tôi mượn nón bảo hiểm."
+  },
+  {
+   "vi": "Tôi sẽ đánh giá năm sao.",
+   "en": "I’ll give you five stars."
+  }
+ ],
+ "adult/family_chat": [
+  {
+   "vi": "Chúc cả nhà buổi sáng vui vẻ!",
+   "en": "Good morning, everyone!"
+  },
+  {
+   "vi": "Con gửi ảnh các cháu nhé.",
+   "en": "Here are some photos of the kids.",
+   "south": "Con gửi hình các cháu nhé."
+  },
+  {
+   "vi": "Cháu lớn quá!",
+   "en": "The kids are getting so big!"
+  },
+  {
+   "vi": "Cả nhà ăn cơm chưa?",
+   "en": "Has everyone eaten?"
+  },
+  {
+   "vi": "Hôm nay bên con mưa to.",
+   "en": "It’s pouring here today."
+  },
+  {
+   "vi": "Con thả tim rồi ạ.",
+   "en": "I gave it a heart."
+  },
+  {
+   "vi": "Con chưa đọc tin nhắn, xin lỗi ạ.",
+   "en": "Sorry, I hadn’t read the messages."
+  },
+  {
+   "vi": "Bố mẹ gọi video không ạ?",
+   "en": "Shall we video call?",
+   "south": "Ba má gọi video không ạ?"
+  },
+  {
+   "vi": "Chúc mừng sinh nhật chị!",
+   "en": "Happy birthday! (to an older sister)"
+  },
+  {
+   "vi": "Haha, buồn cười quá!",
+   "en": "Haha, so funny!",
+   "south": "Haha, mắc cười quá!"
+  },
+  {
+   "vi": "Cả nhà ngủ ngon nhé!",
+   "en": "Good night, everyone!"
+  },
+  {
+   "vi": "Con nhớ cả nhà lắm.",
+   "en": "I miss you all."
+  }
+ ],
+ "adult/grandparents": [
+  {
+   "vi": "Cháu chào ông bà ạ.",
+   "en": "Hello, grandpa and grandma."
+  },
+  {
+   "vi": "Ông bà có khoẻ không ạ?",
+   "en": "Are you well, grandpa and grandma?"
+  },
+  {
+   "vi": "Ông năm nay bao nhiêu tuổi ạ?",
+   "en": "How old are you this year, grandpa?"
+  },
+  {
+   "vi": "Cháu mời ông bà ăn cơm ạ.",
+   "en": "Grandpa, grandma, please start eating."
+  },
+  {
+   "vi": "Ông bà ngồi đây cho mát ạ.",
+   "en": "Sit here, it’s cooler."
+  },
+  {
+   "vi": "Ông kể chuyện ngày xưa đi ạ.",
+   "en": "Grandpa, tell me about the old days."
+  },
+  {
+   "vi": "Ngày xưa ông làm nghề gì ạ?",
+   "en": "What did you do for work back then, grandpa?"
+  },
+  {
+   "vi": "Bà nói to lên một chút được không ạ?",
+   "en": "Grandma, could you speak a little louder?"
+  },
+  {
+   "vi": "Để cháu đỡ ông ạ.",
+   "en": "Let me help you up, grandpa."
+  },
+  {
+   "vi": "Ông bà đi đứng cẩn thận ạ.",
+   "en": "Watch your step, grandpa and grandma."
+  },
+  {
+   "vi": "Cháu chúc ông bà sống lâu trăm tuổi.",
+   "en": "I wish you a long, long life."
+  },
+  {
+   "vi": "Cháu sẽ về thăm ông bà thường xuyên.",
+   "en": "I’ll come and visit you often."
+  }
+ ],
+ "adult/thanking_in_laws": [
+  {
+   "vi": "Con cảm ơn bố mẹ nhiều ạ.",
+   "en": "Thank you so much, Mom and Dad.",
+   "south": "Con cảm ơn ba má nhiều ạ."
+  },
+  {
+   "vi": "Cảm ơn mẹ đã trông cháu.",
+   "en": "Thanks for looking after the kids, Mom.",
+   "south": "Cảm ơn má đã trông cháu."
+  },
+  {
+   "vi": "Cơm mẹ nấu ngon nhất.",
+   "en": "Your cooking is the best, Mom.",
+   "south": "Cơm má nấu ngon nhất."
+  },
+  {
+   "vi": "Bố sửa xe giúp con rồi ạ?",
+   "en": "Dad, you fixed my bike?",
+   "south": "Ba sửa xe giúp con rồi ạ?"
+  },
+  {
+   "vi": "Con không biết cảm ơn sao cho đủ.",
+   "en": "I don’t know how to thank you enough."
+  },
+  {
+   "vi": "Nhờ bố mẹ mà tụi con yên tâm đi làm.",
+   "en": "Thanks to you we can work without worrying.",
+   "south": "Nhờ ba má mà tụi con yên tâm đi làm."
+  },
+  {
+   "vi": "Con biết bố mẹ vất vả.",
+   "en": "I know it’s hard work for you.",
+   "south": "Con biết ba má cực khổ."
+  },
+  {
+   "vi": "Con viết thiệp cảm ơn bố mẹ.",
+   "en": "I wrote you a thank-you card.",
+   "south": "Con viết thiệp cảm ơn ba má."
+  },
+  {
+   "vi": "Cuối tuần con mời bố mẹ đi ăn.",
+   "en": "This weekend we’re taking you out to eat.",
+   "south": "Cuối tuần con mời ba má đi ăn."
+  },
+  {
+   "vi": "Có gì đâu con.",
+   "en": "It’s nothing, dear."
+  },
+  {
+   "vi": "Bố mẹ giúp được gì thì giúp.",
+   "en": "We help however we can.",
+   "south": "Ba má giúp được gì thì giúp."
+  },
+  {
+   "vi": "Con thương bố mẹ lắm.",
+   "en": "I love you both so much.",
+   "south": "Con thương ba má lắm."
+  }
+ ],
+ "adult/in_laws_visit": [
+  {
+   "vi": "Bố mẹ sang chơi bao lâu ạ?",
+   "en": "How long are you staying?",
+   "south": "Ba má qua chơi bao lâu ạ?"
+  },
+  {
+   "vi": "Con ra sân bay đón bố mẹ.",
+   "en": "I’ll pick you up at the airport.",
+   "south": "Con ra sân bay đón ba má."
+  },
+  {
+   "vi": "Bên này lạnh, bố mẹ mặc ấm nhé.",
+   "en": "It’s cold here — wrap up warm.",
+   "south": "Bên này lạnh, ba má mặc ấm nhé."
+  },
+  {
+   "vi": "Đây là phòng của bố mẹ.",
+   "en": "This is your room.",
+   "south": "Đây là phòng của ba má."
+  },
+  {
+   "vi": "Bố mẹ có ngủ được không ạ?",
+   "en": "Could you sleep all right?",
+   "south": "Ba má có ngủ được không ạ?"
+  },
+  {
+   "vi": "Đồ ăn bên này có hợp không ạ?",
+   "en": "Does the food here suit you?"
+  },
+  {
+   "vi": "Con nấu cơm Việt cho bố mẹ.",
+   "en": "I’ll cook Vietnamese food for you.",
+   "south": "Con nấu cơm Việt cho ba má."
+  },
+  {
+   "vi": "Ở đây có chợ châu Á.",
+   "en": "There’s an Asian supermarket here."
+  },
+  {
+   "vi": "Bố mẹ có cần sạc điện thoại không ạ?",
+   "en": "Do you need to charge your phones?",
+   "south": "Ba má có cần sạc điện thoại không ạ?"
+  },
+  {
+   "vi": "Con dạy bố mẹ đi tàu điện.",
+   "en": "I’ll show you how to use the subway.",
+   "south": "Con chỉ ba má đi tàu điện."
+  },
+  {
+   "vi": "Bố mẹ ở thêm vài hôm nữa đi ạ.",
+   "en": "Please stay a few more days.",
+   "south": "Ba má ở thêm vài bữa nữa đi ạ."
+  },
+  {
+   "vi": "Các cháu vui lắm vì có ông bà.",
+   "en": "The kids are so happy to have their grandparents here."
+  }
+ ],
+ "adult/polite_requests": [
+  {
+   "vi": "Bố mẹ giúp con việc này được không ạ?",
+   "en": "Could you help me with this?",
+   "south": "Ba má giúp con việc này được không ạ?"
+  },
+  {
+   "vi": "Mẹ đưa giúp con cái kéo với ạ.",
+   "en": "Mom, could you pass me the scissors?",
+   "south": "Má đưa giúp con cái kéo với ạ."
+  },
+  {
+   "vi": "Con nhờ bố một chút ạ.",
+   "en": "Dad, could I ask you a favour?",
+   "south": "Con nhờ ba một chút ạ."
+  },
+  {
+   "vi": "Phiền bác một chút ạ.",
+   "en": "Sorry to trouble you."
+  },
+  {
+   "vi": "Bác có thể nói lại được không ạ?",
+   "en": "Could you say that again?"
+  },
+  {
+   "vi": "Con mượn xe máy một lát được không ạ?",
+   "en": "Could I borrow the motorbike for a bit?"
+  },
+  {
+   "vi": "Nếu không phiền thì…",
+   "en": "If it’s no trouble…"
+  },
+  {
+   "vi": "Con có thể nhờ bố mẹ đón cháu không ạ?",
+   "en": "Could you pick up the kids for me?",
+   "south": "Con có thể nhờ ba má đón cháu không ạ?"
+  },
+  {
+   "vi": "Không sao, con tự làm được ạ.",
+   "en": "It’s fine, I can do it myself."
+  },
+  {
+   "vi": "Con làm phiền bố mẹ quá.",
+   "en": "I’m giving you so much trouble.",
+   "south": "Con làm phiền ba má quá."
+  },
+  {
+   "vi": "Lúc nào bố mẹ rảnh thì giúp con ạ.",
+   "en": "Whenever you have time.",
+   "south": "Lúc nào ba má rảnh thì giúp con ạ."
+  },
+  {
+   "vi": "Con cảm ơn, nhờ bố mẹ cả.",
+   "en": "Thank you — it’s all thanks to you.",
+   "south": "Con cảm ơn, nhờ ba má cả."
+  }
+ ],
+ "adult/understanding": [
+  {
+   "vi": "Con chưa hiểu ạ.",
+   "en": "I don’t understand yet."
+  },
+  {
+   "vi": "Bố mẹ nói lại được không ạ?",
+   "en": "Could you say that again?",
+   "south": "Ba má nói lại được không ạ?"
+  },
+  {
+   "vi": "Từ này nghĩa là gì ạ?",
+   "en": "What does this word mean?"
+  },
+  {
+   "vi": "Tiếng Việt nói thế nào ạ?",
+   "en": "How do you say it in Vietnamese?",
+   "south": "Tiếng Việt nói sao ạ?"
+  },
+  {
+   "vi": "Con nói đúng không ạ?",
+   "en": "Did I say that right?"
+  },
+  {
+   "vi": "Con xin lỗi, con nói sai rồi.",
+   "en": "Sorry, I said it wrong."
+  },
+  {
+   "vi": "Con vẫn đang học ạ.",
+   "en": "I’m still learning."
+  },
+  {
+   "vi": "Viết ra giúp con được không ạ?",
+   "en": "Could you write it down for me?"
+  },
+  {
+   "vi": "Chậm thôi ạ.",
+   "en": "Slowly, please."
+  },
+  {
+   "vi": "Con hiểu một chút.",
+   "en": "I understand a little."
+  },
+  {
+   "vi": "Con không biết từ này.",
+   "en": "I don’t know this word."
+  },
+  {
+   "vi": "Con cảm ơn bố mẹ đã kiên nhẫn với con.",
+   "en": "Thank you for being patient with me.",
+   "south": "Con cảm ơn ba má đã kiên nhẫn với con."
+  }
+ ],
+ "adult/my_vietnamese": [
+  {
+   "vi": "Tiếng Việt của con tiến bộ chưa ạ?",
+   "en": "Has my Vietnamese improved?"
+  },
+  {
+   "vi": "Con học mỗi ngày mười lăm phút.",
+   "en": "I study fifteen minutes every day."
+  },
+  {
+   "vi": "Con vẫn hay nhầm thanh hỏi và thanh ngã.",
+   "en": "I still mix up the hỏi and ngã tones."
+  },
+  {
+   "vi": "Bố mẹ sửa giúp con nhé.",
+   "en": "Please correct me.",
+   "south": "Ba má sửa giúp con nhé."
+  },
+  {
+   "vi": "Con hiểu nhiều hơn rồi.",
+   "en": "I understand a lot more now."
+  },
+  {
+   "vi": "Con nói chưa được nhanh.",
+   "en": "I can’t speak fast yet."
+  },
+  {
+   "vi": "Giọng con giống người miền nào ạ?",
+   "en": "Which region do I sound like?"
+  },
+  {
+   "vi": "Con muốn nói chuyện với ông bà nhiều hơn.",
+   "en": "I want to talk with the grandparents more."
+  },
+  {
+   "vi": "Có từ nào hay dạy con với ạ.",
+   "en": "Teach me a nice new word."
+  },
+  {
+   "vi": "Con nghe được người ấy nói chuyện điện thoại rồi.",
+   "en": "I can follow my partner’s phone calls now."
+  },
+  {
+   "vi": "Con sẽ cố gắng hơn nữa.",
+   "en": "I’ll keep trying even harder."
+  },
+  {
+   "vi": "Cảm ơn bố mẹ đã luôn động viên con.",
+   "en": "Thank you for always encouraging me.",
+   "south": "Cảm ơn ba má đã luôn động viên con."
+  }
+ ],
+ "kids/my_relatives": [
+  {
+   "vi": "ông nội",
+   "en": "grandpa (dad’s dad)"
+  },
+  {
+   "vi": "bà nội",
+   "en": "grandma (dad’s mum)"
+  },
+  {
+   "vi": "ông ngoại",
+   "en": "grandpa (mum’s dad)"
+  },
+  {
+   "vi": "bà ngoại",
+   "en": "grandma (mum’s mum)"
+  },
+  {
+   "vi": "bác",
+   "en": "uncle or aunt (older than mum or dad)"
+  },
+  {
+   "vi": "dì",
+   "en": "aunt (mum’s sister)"
+  },
+  {
+   "vi": "cậu",
+   "en": "uncle (mum’s brother)"
+  },
+  {
+   "vi": "mợ",
+   "en": "aunt (cậu’s wife)"
+  },
+  {
+   "vi": "thím",
+   "en": "aunt (chú’s wife)"
+  },
+  {
+   "vi": "anh họ",
+   "en": "older boy cousin"
+  },
+  {
+   "vi": "chị họ",
+   "en": "older girl cousin"
+  },
+  {
+   "vi": "em họ",
+   "en": "younger cousin"
+  }
+ ]
+}
